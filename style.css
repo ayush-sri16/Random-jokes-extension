@@ -1,0 +1,16 @@
+body{
+    height: 400px;
+    width: 400px;
+    background-color: rgb(83, 209, 135);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#rJokes{
+    height: 160px;
+    width: 300px;
+    font-size: 2em;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    border:3px solid greenyellow ;
+}
